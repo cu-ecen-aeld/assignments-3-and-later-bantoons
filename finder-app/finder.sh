@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Test if the number of arguments is equal to 2
 if [ $# != 2 ]; then
